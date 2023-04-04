@@ -1,0 +1,10 @@
+﻿#, fuzzy
+msgid ""
+msgstr ""
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: SGPA/ZI18N_TEST/PARTEXT 00001, maxlen=60
+msgid "Test para"
+msgstr ""

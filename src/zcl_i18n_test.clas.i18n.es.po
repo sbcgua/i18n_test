@@ -1,0 +1,18 @@
+﻿#, fuzzy
+msgid ""
+msgstr ""
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: CLAS/ZCL_I18N_TEST/CLASS 00001, maxlen=60
+msgid "Class test"
+msgstr ""
+
+#: RPT8/ZCL_I18N_TEST/TEXT 001 10, maxlen=10
+msgid "Text1"
+msgstr "Text1 ES"
+
+#: RPT8/ZCL_I18N_TEST/TEXT 002 10, maxlen=10
+msgid "Text2"
+msgstr ""

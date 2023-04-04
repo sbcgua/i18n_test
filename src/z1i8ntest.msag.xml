@@ -1,0 +1,32 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<abapGit version="v1.0.0" serializer="LCL_OBJECT_MSAG" serializer_version="v1.0.0">
+ <asx:abap xmlns:asx="http://www.sap.com/abapxml" version="1.0">
+  <asx:values>
+   <T100A>
+    <ARBGB>Z1I8NTEST</ARBGB>
+    <MASTERLANG>E</MASTERLANG>
+    <STEXT>Msg class Test</STEXT>
+   </T100A>
+   <T100>
+    <T100>
+     <SPRSL>E</SPRSL>
+     <ARBGB>Z1I8NTEST</ARBGB>
+     <MSGNR>000</MSGNR>
+     <TEXT>Test msg1</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>E</SPRSL>
+     <ARBGB>Z1I8NTEST</ARBGB>
+     <MSGNR>001</MSGNR>
+     <TEXT>Test msg2</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>E</SPRSL>
+     <ARBGB>Z1I8NTEST</ARBGB>
+     <MSGNR>002</MSGNR>
+     <TEXT>Test msg1</TEXT>
+    </T100>
+   </T100>
+  </asx:values>
+ </asx:abap>
+</abapGit>

@@ -1,0 +1,10 @@
+﻿#, fuzzy
+msgid ""
+msgstr ""
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: TABT/ZI18N_TESTT/1_DD02T A, maxlen=60
+msgid "Test tab"
+msgstr "Test tab DE"

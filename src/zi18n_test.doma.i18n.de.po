@@ -1,0 +1,18 @@
+﻿#, fuzzy
+msgid ""
+msgstr ""
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: VALU/ZI18N_TEST/DDTEXT 00001, maxlen=60
+msgid "Test 1"
+msgstr "Test 1 DE"
+
+#: VALU/ZI18N_TEST/DDTEXT 00002, maxlen=60
+msgid "Test 2"
+msgstr "Test 2 DE"
+
+#: DOMA/ZI18N_TEST/DDTEXT A, maxlen=60
+msgid "Test domain"
+msgstr "Test domain DE"

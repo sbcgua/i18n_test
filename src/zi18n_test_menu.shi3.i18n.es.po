@@ -1,0 +1,19 @@
+﻿#, fuzzy
+msgid ""
+msgstr ""
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: SHI3/ZI18N_TEST_MENU/TEXT 00004, maxlen=75
+msgid "Main tcode"
+msgstr ""
+
+#: SHI3/ZI18N_TEST_MENU/TEXT 00003, maxlen=75
+msgid "Tcodes"
+msgstr "Tcodes ES"
+
+#: SHI3/ZI18N_TEST_MENU/TEXT 00001, maxlen=75
+#: SHI3/ZI18N_TEST_MENU/TEXT 00002, maxlen=75
+msgid "Test menu"
+msgstr ""
